@@ -1,5 +1,6 @@
 ## NOTE
-Tried to make GUI for the metro application. It could only get you shortest distance for now to access the entire application use rest of the java program and igonre**MetroGraphGUI**
+Tried to make GUI for this metro application. It could only get you shortest distance for now. 
+To access the entire application, use rest of the java programs and igonre downloading **MetroGraphGUI.java**
 
 # DELHI METRO RAIL APP
 With the provided program, the user can perform various operations on the metro graph, including:
@@ -42,8 +43,6 @@ Get Shortest Distance and Cost of Travel:
 The program will prompt the user to enter the source and destination stations (case-sensitive).
 The user needs to enter the names of the source and destination stations separated by pressing the "Enter" key after each entry.
 For example:
-yaml
-Copy code
 ENTER THE SOURCE STATION: Noida Sector 62~B
 ENTER THE DESTINATION STATION: Rajouri Garden~BP
 Get Shortest Time to Reach:
@@ -51,8 +50,7 @@ Get Shortest Time to Reach:
 The program will prompt the user to enter the source and destination stations (case-sensitive).
 The user needs to enter the names of the source and destination stations separated by pressing the "Enter" key after each entry.
 For example:
-yaml
-Copy code
+
 ENTER THE SOURCE STATION: Noida Sector 62~B
 ENTER THE DESTINATION STATION: Rajouri Garden~BP
 Exit the Application:
